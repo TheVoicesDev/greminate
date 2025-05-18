@@ -1,0 +1,3 @@
+[submodule "addons/greminate_addon"]
+	path = addons/greminate_addon
+	url = https://github.com/TheVoicesDev/greminate_addon.git
